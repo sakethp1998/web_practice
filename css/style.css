@@ -1,0 +1,42 @@
+h1 
+{
+    color: orange;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h2 
+{
+    color: red;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+   
+}
+p
+{
+    color: blue;
+}
+a
+{
+    color: chocolate;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.btn
+{
+    color: white;
+    background-color: darkgreen;
+    border: none;
+    padding: 12px;
+}
+.btn1
+{
+    color: white;
+    background-color: darkgreen;
+    border: none;
+    padding: 12px;
+}
+.btn:hover
+{
+    background-color: orange;
+}
+.btn1:hover
+{
+    background-color: orange;
+}
